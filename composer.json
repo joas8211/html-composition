@@ -2,6 +2,14 @@
     "name": "joas8211/html-composition",
     "description": "HTML builder for PHP",
     "version": "1.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jesse Sivonen",
+            "email": "j.sivonen@hotmail.com",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": {"HtmlComposition\\": "src/"}
     },
