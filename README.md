@@ -5,7 +5,7 @@ HTML builder for PHP
 * Method chaining :link:
 * Optional pretty printing :heart_eyes:
 * Element or complete document rendering :art:
-* Configrable indentation :pencil:
+* Configurable indentation :pencil:
 * Code injection :syringe:
 
 ## Installation
