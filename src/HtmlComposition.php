@@ -1,5 +1,7 @@
 <?php
 
+namespace HtmlComposition;
+
 class HtmlComposition
 {
     public const DEFAULT_OPTIONS = [

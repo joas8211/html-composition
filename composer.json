@@ -1,0 +1,11 @@
+{
+    "name": "joas8211/html-composition",
+    "description": "HTML builder for PHP",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {"HtmlComposition\\": "src/"}
+    },
+    "require": {
+        "php": "^7.1.0"
+    }
+}
